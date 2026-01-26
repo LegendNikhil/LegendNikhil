@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Yeware</h1>
-<h3 align="center">B.Tech in Electronics and Telecommunication Engineering graduate.</h3>
+<h3 align="center">B.Tech Electronics and Telecommunication Engineering graduate.</h3>
 
 <p align="center">
   <img src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-68-denji-shows-peace-sign-acegif.gif" width="400" />
